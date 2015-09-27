@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C11402871BB82AB00064851E /* CsoundLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAA0F5951AE71CD1007CD7C9 /* CsoundLib.framework */; };
 		C11402881BB82AB30064851E /* libsndfile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA9F18821AE789E0009D3DA6 /* libsndfile.framework */; };
+		C16055F91BB831FE00022370 /* AKFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = EA8E93F31AD3C6840057E979 /* AKFoundation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C4258E3B1B3D03D300D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
 		C4258E3C1B3D03F400D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
 		C4258E3D1B3D03F400D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
@@ -2034,6 +2035,14 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		C16055F81BB831F200022370 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C16055F91BB831FE00022370 /* AKFoundation.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EA8E96571AD3C6FC0057E979 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -2102,6 +2111,7 @@
 			buildPhases = (
 				EAA0F4DF1AE71C8F007CD7C9 /* Sources */,
 				EAA0F58C1AE71C8F007CD7C9 /* Frameworks */,
+				C16055F81BB831F200022370 /* Headers */,
 				EAA0F58F1AE71C8F007CD7C9 /* CopyFiles */,
 			);
 			buildRules = (
