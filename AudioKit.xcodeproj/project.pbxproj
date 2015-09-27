@@ -200,6 +200,7 @@
 		C1842A691BB8352E003F90EA /* AKPropertyLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = EA8E94651AD3C6840057E979 /* AKPropertyLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C1842A6A1BB8352E003F90EA /* AKPropertySlider.h in Headers */ = {isa = PBXBuildFile; fileRef = EA8E94671AD3C6840057E979 /* AKPropertySlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C1842A6B1BB8352E003F90EA /* AKLevelMeter.h in Headers */ = {isa = PBXBuildFile; fileRef = EA8E94691AD3C6840057E979 /* AKLevelMeter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C1FC48391BB83A3E0021B149 /* CsoundObj.h in Headers */ = {isa = PBXBuildFile; fileRef = EA08B56D1AD8985F00949FD5 /* CsoundObj.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C4258E3B1B3D03D300D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
 		C4258E3C1B3D03F400D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
 		C4258E3D1B3D03F400D91B3D /* AKDelayPedal.m in Sources */ = {isa = PBXBuildFile; fileRef = C4258E3A1B3D03D300D91B3D /* AKDelayPedal.m */; };
@@ -2269,6 +2270,7 @@
 				C1842A071BB8345C003F90EA /* AKMultitapDelay.h in Headers */,
 				C18429DA1BB83416003F90EA /* AKMonoSoundFileLooper.h in Headers */,
 				C1842A5D1BB8352E003F90EA /* AKAudioInputFFTPlot.h in Headers */,
+				C1FC48391BB83A3E0021B149 /* CsoundObj.h in Headers */,
 				C1842A051BB8345C003F90EA /* AKStereoConvolution.h in Headers */,
 				C18429B01BB8329C003F90EA /* AKManager.h in Headers */,
 				C18429EF1BB83416003F90EA /* AKSekere.h in Headers */,
