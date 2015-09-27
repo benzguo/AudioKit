@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAA0F4DE1AE71C8F007CD7C9"
-               BuildableName = "libAudioKit iOS Dynamic.a"
-               BlueprintName = "AudioKit iOS Dynamic"
+               BuildableName = "AudioKit.framework"
+               BlueprintName = "AudioKit iOS Framework"
                ReferencedContainer = "container:AudioKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAA0F4DE1AE71C8F007CD7C9"
-            BuildableName = "libAudioKit iOS Dynamic.a"
-            BlueprintName = "AudioKit iOS Dynamic"
+            BuildableName = "AudioKit.framework"
+            BlueprintName = "AudioKit iOS Framework"
             ReferencedContainer = "container:AudioKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAA0F4DE1AE71C8F007CD7C9"
-            BuildableName = "libAudioKit iOS Dynamic.a"
-            BlueprintName = "AudioKit iOS Dynamic"
+            BuildableName = "AudioKit.framework"
+            BlueprintName = "AudioKit iOS Framework"
             ReferencedContainer = "container:AudioKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
