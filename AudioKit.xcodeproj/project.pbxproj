@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C11402871BB82AB00064851E /* CsoundLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAA0F5951AE71CD1007CD7C9 /* CsoundLib.framework */; };
-		C11402881BB82AB30064851E /* libsndfile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA9F18821AE789E0009D3DA6 /* libsndfile.framework */; };
+		C11402871BB82AB00064851E /* CsoundLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAA0F5951AE71CD1007CD7C9 /* CsoundLib.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		C11402881BB82AB30064851E /* libsndfile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA9F18821AE789E0009D3DA6 /* libsndfile.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		C16055F91BB831FE00022370 /* AKFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = EA8E93F31AD3C6840057E979 /* AKFoundation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C18429AE1BB83295003F90EA /* AKCompatibility.h in Headers */ = {isa = PBXBuildFile; fileRef = EA15CDF41AE356B500BA279F /* AKCompatibility.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C18429AF1BB83298003F90EA /* AKSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = EA95E9EF1AD5EC50007FC41F /* AKSettings.h */; settings = {ATTRIBUTES = (Public, ); }; };
